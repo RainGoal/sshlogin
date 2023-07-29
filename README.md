@@ -9,5 +9,5 @@ git clone https://github.com/RainGoal/sshlogin.git
 ## 编辑iterm2配置，新增对应的服务器配置
 1. 打开iterm2设置，选择profiles
    
-2. 新增一个自己要连接的服务器配置
+2. 新增一个自己要连接的服务器配置，将Command设置为command，然后再右侧输入框内输入 /你的本地目录完整路径/pre.sh /你的本地目录完整路径/login.sh ip 端口 用户名 密码
    
